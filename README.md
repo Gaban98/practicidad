@@ -56,3 +56,13 @@ Se crea un nuevo proyecto o repositorio desde GitHub con nombre o caracteristica
 # en la carpeta gitignore se agregan los archivos que se quieres omitir
 
 5) se usa el git add ".... nombre de carpeta ..." siempre que se haga un cambio se deben agregar los archivos siempre   con " git add -A " o de manera especifica con " git add "..nombre.."
+
+en resumidas cuentas
+
+# 1) git add "nombre del archivo"
+# 2) git status para verificar los archivos
+# 3) git add -A par aagregar todo
+# 4) git commit -m "nombre de los o el archivo"
+# 5) git push
+
+
